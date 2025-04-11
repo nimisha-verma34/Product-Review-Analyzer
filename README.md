@@ -18,7 +18,7 @@ FeedbackFinder is a robust tool designed to help you uncover sentiments and opin
 
 1. Clone the repository:
     ```bash
-    git clone github.com:supriya811106/Product-Review-Analyzer.git
+    git clone github.com:nimisha-verma34/Product-Review-Analyzer.git
     ```
 2. Navigate to the project directory:
     ```bash
