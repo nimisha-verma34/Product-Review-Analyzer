@@ -1,0 +1,10 @@
+streamlit
+pandas
+requests
+flask
+scikit-learn
+matplotlib
+nltk
+xgboost
+gunicorn
+numpy
